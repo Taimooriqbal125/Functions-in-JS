@@ -7,3 +7,9 @@ function addNumbers(num1, num2) {
 
 addNumbers(5,4);
 
+function sum(a , b){
+var result = a+b;
+console.log(result)
+}
+
+sum(4 , 4);
