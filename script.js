@@ -13,3 +13,11 @@ console.log(result)
 }
 
 sum(4 , 4);
+
+function sub(...agrnn){
+var result1 = agrnn ;
+console.log(result1)
+
+}
+
+sub(1 ,4, 6 ,7 ,8, 8,9)
